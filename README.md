@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **superdevblock/superdevblock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +10,3 @@ Here are some ideas to get you started:
 
 - 👯 Skills : Solidity, COSMWASM, RUST, Smart Contract, React.js, TypeScript
 - 👯 Experiences : Defi/DEX, NFT platform, Launchpad, DAO, GMX
--->
